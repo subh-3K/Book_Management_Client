@@ -1,12 +1,31 @@
-# React + Vite
+# 📚 Book Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack **CRUD** application built with the **MERN stack** — **MongoDB**, **Express.js**, **React.js**, and **Node.js** — designed to help users efficiently manage personal or organizational libraries. The system supports adding, editing, deleting, and viewing books with a responsive and intuitive interface.
 
-Currently, two official plugins are available:
+🔗 [GitHub_Link] For Server (https://github.com/subh-3K/Book_Management_Server)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 📝 Create, Read, Update, Delete (CRUD) operations for books
+- 🔍 Search and filter books by title, author, or category
+- 📦 Backend API with Express and MongoDB
+- ⚛️ Frontend built with React.js and styled for responsiveness
+- 🔐 Secure and scalable architecture
+- 📱 Mobile-friendly design
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+| Technology   | Role                     |
+|--------------|--------------------------|
+| MongoDB      | Database for storing book records |
+| Express.js   | Backend framework for API routes |
+| React.js     | Frontend UI and state management |
+| Node.js      | Server-side runtime environment |
+
+## 📦 Installation
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/yourusername/book-management-system.git
+cd book-management-system
